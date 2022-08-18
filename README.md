@@ -8,4 +8,4 @@
 * Modificando arrays utilizando métodos do JS moderno (ES6 em diante)
 * Praticas
 
-#### O Curos faz parte da formação Javascript para BackEnd em sua primeira parte *Fundamentos do JavaScript*
+#### O Curso faz parte da formação Javascript para BackEnd em sua primeira parte *Fundamentos do JavaScript*
